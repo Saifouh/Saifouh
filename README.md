@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Saifouh. i am computer engineering student based in jordan!
+- 👋 Hi, I’m @Saifouh. i am computer engineer based in jordan!
 - 👀 I’m interested in developing higher skillsets in coding and tech in general
-- 🌱 I’m currently learning to rely on myself and collaborating in actual projects instead of just coding
-- 💞️ I’m looking to collaborate on any back end,front end,full stack project
+- 🌱 I’m currently learning to rely on myself and collaborating in actual projects instead of just theory
+- 💞️ I’m looking to collaborate on any back end,front end,full stack projects
 - 📫 How to reach me @saifspr on instagram or saifbo2@gmail.com
 
 <!---
