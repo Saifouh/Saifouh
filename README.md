@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Saif 👋</h1>
 
 <p align="center">
-  <strong>Data Scientist | AI Engineer | Creative Technologist</strong><br>
+  <strong>Data Scientist | AI Engineer</strong><br>
   Passionate about building intelligent systems that solve real-world problems.
 </p>
 
