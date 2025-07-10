@@ -21,7 +21,7 @@
 
 ### 🧾 Certifications
 
-- 🟩 **IBM AI Engineering** **HuggingFace AI Agents** "Placed top 8 on the leaderboard"
+- 🟩 **IBM AI Engineering**, **HuggingFace AI Agents** "Placed top 8 on the leaderboard"
 - 🟨 **AWS Certified Machine Learning – Specialty**
 - 🟥 **Cloudera Technical Expert in Data Science**
 
