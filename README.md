@@ -46,10 +46,10 @@
 ### 🛠️ Tech Stack
 
 - **Languages:** Python, SQL, Bash
-- **Tools & Libraries:** Pandas, NumPy, PyTorch, Scikit-learn, Matplotlib, FastAPI, Streamlit
-- **Data Engineering:** Apache Airflow, Docker, PostgreSQL, Spark
-- **Search & Retrieval:** FAISS, Elasticsearch, LlamaIndex, LangChain
-- **ML Ops & Cloud:** AWS SageMaker, Azure ML, Jenkins, GitHub Actions
+- **Tools & Libraries:** Pandas, NumPy, PyTorch, Scikit-learn, Matplotlib, FastAPI, Streamlit, Tensorflow, HuggingFace
+- **Data Engineering:** Kafka, Spark, Flink, Cloudera, Airflow, Oracle, PostgreSQL
+- **Search & Retrieval:** FAISS, Elasticsearch, LlamaIndex, LangChain, LangGraph
+- **ML Ops & Cloud:** AWS, Docker, MLflow, Git, Feast, Jenkins
 
 ---
 
